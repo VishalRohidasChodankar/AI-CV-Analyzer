@@ -11,7 +11,7 @@
 ![Landing Page](landing.png)
 
 ### Candidate Results
-![Candidate Results](screenshots/results.png)
+![Candidate Results](results.png)
 
 ---
 
