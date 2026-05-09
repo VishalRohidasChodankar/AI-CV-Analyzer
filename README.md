@@ -8,7 +8,7 @@
 ## Screenshots
 
 ### Landing Page
-![Landing Page](screenshots/landing.png)
+![Landing Page](landing.png)
 
 ### Candidate Results
 ![Candidate Results](screenshots/results.png)
